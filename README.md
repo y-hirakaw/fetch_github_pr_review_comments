@@ -1,0 +1,2 @@
+# fetch_github_pr_review_comments
+GitHubのマージ済みPRからレビューコメントを取得するスクリプトです。
