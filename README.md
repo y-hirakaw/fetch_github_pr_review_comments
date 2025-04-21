@@ -12,3 +12,5 @@ Goがインストールされていない場合
 # go mod tidy
 # go run fetch_pr_comments.go --owner=<OWNER> --repo=<REPO> --token=<TOKEN> --count=5
 ```
+
+`-merge=true`オプションをつけると全て結合した一つのテキストファイルを出力します。
